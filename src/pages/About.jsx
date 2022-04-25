@@ -1,4 +1,4 @@
-import React from 'react'
+import loading from "../components/layout/assets/loading.gif"
 
 export default function About() {
   return (
